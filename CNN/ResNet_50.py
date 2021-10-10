@@ -130,6 +130,7 @@ class ResNet(nn.Module):
                 nn.init.constant_(m.bias, 0)
 
 
+        # This improves the model by 0.2~0.3% according to https://arxiv.org/abs/1706.02677
         if zero_init_residual:
             for m in self.modules():
                 if isinstance(m, Bottleneck):
@@ -138,7 +139,9 @@ class ResNet(nn.Module):
                     nn.init.constant_(m.bn2.weight, 0)
 
     # self.inplanes = 64
-    # self.layer1 = self._make_layer(block, 64, layers[0])
+    # self.layer1 = self._make_layer(block, 64, 3)
+    # self.layer2 = self._make_lyaer(Bottleneck, planes = 128, blocks = 4, stride = 2)
+    # self.inplanes = 64
     def _make_layer(self, block, planes, blocks, stride = 1):
         downsample = None
         if stride != 1 or self.inplanes != planes * block.expansion: # 64 != 256
