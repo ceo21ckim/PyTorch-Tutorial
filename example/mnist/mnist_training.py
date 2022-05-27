@@ -16,7 +16,7 @@ from torchvision.datasets import MNIST
 
 from metric import *
 print('pytorch version:',torch.__version__)
-BASE_DIR = os.path.dirname(os.getcwd())
+BASE_DIR = os.path.dirname(__file__)
 TRAIN_SAVE_DIR = os.path.join(os.path.dirname(__file__), 'train')
 
 parser = argparse.ArgumentParser(description="")
