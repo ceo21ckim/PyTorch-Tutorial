@@ -3,7 +3,7 @@
 
 # Introduction 
 
-[Convolutional Neural Networks with packageshttps://github.com/ceo21ckim/PyTorch/blob/main/01.Introduction/Convolutional_Neural_Networks.ipynb)
+[Convolutional Neural Networks with packages](https://github.com/ceo21ckim/PyTorch/blob/main/01.Introduction/Convolutional_Neural_Networks.ipynb)
 [Convolutional Neural Networks from scratch](https://github.com/ceo21ckim/PyTorch/blob/main/01.Introduction/Convolutional_Neural_Networks_from_scratch.ipynb)
 
 ## Loss Function
