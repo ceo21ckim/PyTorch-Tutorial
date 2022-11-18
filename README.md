@@ -15,7 +15,7 @@
 
 ## Optimizer
 
-[Gradient Descent](https://github.com/ceo21ckim/PyTorch/blob/main/01.Introduction/Gradient_Descent.ipynb)
+[Gradient Descent from Scratch](https://github.com/ceo21ckim/PyTorch/blob/main/01.Introduction/Gradient_Descent.ipynb)
 
 # Application
 
