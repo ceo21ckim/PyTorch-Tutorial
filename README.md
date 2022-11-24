@@ -1,28 +1,29 @@
 # pytorch
 
-# Introduction 
+- Introduction 
 
 [Convolutional Neural Networks with packages](https://github.com/ceo21ckim/PyTorch/blob/main/01.Introduction/Convolutional_Neural_Networks.ipynb)
 
 [Convolutional Neural Networks from scratch](https://github.com/ceo21ckim/PyTorch/blob/main/01.Introduction/Convolutional_Neural_Networks_from_scratch.ipynb)
 
-## Loss Function
+- Loss Function
 
 [CrossEntropyLoss](https://github.com/ceo21ckim/PyTorch/blob/main/01.Introduction/CrossEntropyLoss.ipynb)
 
 [BCELoss, BCEWithlogitsLoss](https://github.com/ceo21ckim/PyTorch/blob/main/01.Introduction/BCELoss%2C%20BCEWithlogitsLoss.ipynb)
 
-## Optimizer
+- Optimizer
 
 [Gradient Descent from Scratch](https://github.com/ceo21ckim/PyTorch/blob/main/01.Introduction/Gradient_Descent.ipynb)
 
-# Application
+- Application
 
-## Utility
+- Utility
 
 [Learning Rate Scheduling with SGD](https://github.com/ceo21ckim/PyTorch/blob/main/02.Application/00.Utils/Learning_Rate_Scheduling.ipynb)
 
-## Image Classification
+- Image Classification
+
 [Convolution Neural Network](https://github.com/ceo21ckim/PyTorch/blob/main/02.Application/01.Image_Classification/Convolution_Neural_Network.ipynb)
 
 [LeNet](https://github.com/ceo21ckim/PyTorch/blob/main/02.Application/01.Image_Classification/LeNet.ipynb)
