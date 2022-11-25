@@ -2,10 +2,6 @@
 
 ## Introduction 
 
-  - [Convolutional Neural Networks with packages](https://github.com/ceo21ckim/PyTorch/blob/main/01.Introduction/Convolutional_Neural_Networks.ipynb)
-
-  - [Convolutional Neural Networks from scratch](https://github.com/ceo21ckim/PyTorch/blob/main/01.Introduction/Convolutional_Neural_Networks_from_scratch.ipynb)
-
 - Loss Function
 
   - [CrossEntropyLoss](https://github.com/ceo21ckim/PyTorch/blob/main/01.Introduction/CrossEntropyLoss.ipynb)
@@ -15,6 +11,13 @@
 - Optimizer
 
   - [Gradient Descent from Scratch](https://github.com/ceo21ckim/PyTorch/blob/main/01.Introduction/Gradient_Descent.ipynb)
+  
+- Others
+
+  - [Convolutional Neural Networks with packages](https://github.com/ceo21ckim/PyTorch/blob/main/01.Introduction/Convolutional_Neural_Networks.ipynb)
+
+  - [Convolutional Neural Networks from scratch](https://github.com/ceo21ckim/PyTorch/blob/main/01.Introduction/Convolutional_Neural_Networks_from_scratch.ipynb)
+
 
 ## Application
 
