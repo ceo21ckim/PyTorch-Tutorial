@@ -1,6 +1,6 @@
 # pytorch
 
-- Introduction 
+## Introduction 
 
   - [Convolutional Neural Networks with packages](https://github.com/ceo21ckim/PyTorch/blob/main/01.Introduction/Convolutional_Neural_Networks.ipynb)
 
@@ -16,7 +16,7 @@
 
   - [Gradient Descent from Scratch](https://github.com/ceo21ckim/PyTorch/blob/main/01.Introduction/Gradient_Descent.ipynb)
 
-- Application
+## Application
 
 - Utility
 
